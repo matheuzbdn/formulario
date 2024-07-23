@@ -13,7 +13,7 @@
 }
 
 @media(orientation: landscape){
-    
+
 }
 
 
@@ -90,7 +90,7 @@ fieldset.grupo.campo{
     padding: 0.2  0.6;
     box-shadow:2px 2px 2px rgba(0,0,0,0.2) ;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5) ;
-   position: relative;
+   position: absolute;
     top: 90%;
     left: 50%;
     margin-right: -50%;
